@@ -1,1 +1,1 @@
-#welcome to github！！！
+*词典速查*
